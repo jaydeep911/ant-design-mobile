@@ -8,8 +8,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ant-design/ant-design-mobile.git",
-    "branch": "master",
-    "platform": "github"
+    "branch": "master"
   },
   "license": "MIT",
   "sideEffects": [
@@ -178,7 +177,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "GravityCDN": "./umd/antd-mobile.js",
   "size-limit": [
     {
       "path": "./lib/bundle/antd-mobile.es.js",
