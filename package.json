@@ -171,8 +171,7 @@
     "webpack-stream": "^7.0.0"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
+    
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
